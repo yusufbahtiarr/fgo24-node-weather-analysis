@@ -1,0 +1,19 @@
+{
+    "name": "debugging-average-temperature",
+    "version": "1.0.0",
+    "main": "average-temperature.js",
+    "type": "module",
+    "scripts": {
+      "start": "node average-temperature.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+      "@eslint/js": "^9.25.1",
+      "@stylistic/eslint-plugin-js": "^4.2.0",
+      "eslint": "^9.25.1",
+      "globals": "^16.0.0"
+    }
+  }
